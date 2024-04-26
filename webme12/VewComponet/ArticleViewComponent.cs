@@ -17,6 +17,7 @@ namespace webme12.VewComponet
                 new Article(4,"اموزش css ","css","blog-post-thumb-card-4.jpg")
 
             };
+            asdasd
 
 
             return View("_Atricles",article);
